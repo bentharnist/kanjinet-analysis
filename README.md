@@ -1,7 +1,7 @@
 # kanjinet
 ### A collection of data analysis done on kanji networks
 
-This project has for goal to perform network analysis on the "kanji" chinese characters used in Japanese.
+This project has for goal to perform network analysis on the kanji characters used in Japanese and their relations. The goal is to get insight into linguistics using network science and hopefully learn a thing or two about an efficient way of learning kanji.
 
 ## The data and libraries used
 
